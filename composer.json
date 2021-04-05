@@ -1,0 +1,13 @@
+{
+    "name": "arturas/app2",
+    "description": "This is an awesome project",
+    "require": {
+        "doctrine/orm": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zoo\\": "src/",
+            "Models\\": "src/models"
+        }
+     }
+}
