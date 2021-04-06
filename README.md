@@ -17,7 +17,7 @@ php composer.phar install
 vendor\bin\doctrine orm:schema-tool:update --force --dump-sql (if you are using windows CMD)
 vendor/bin/doctrine orm:schema-tool:update --force --dump-sql (if you are using git bash / mac / linux terminals)
 php composer.phar dump-autoload
-Open custom-cms-mvc folder on localhost
+Open sprint3cms folder on localhost
 
 If you want to add pages, just enter /admin after root url
 
